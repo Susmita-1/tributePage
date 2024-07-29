@@ -1,0 +1,65 @@
+body{
+    background-color: #00FA9A;;
+      margin: 20%;
+      font-family: Georgia;
+  }
+  div#legend p{
+      text-align:center;
+      font-size: 3rem;
+      font-weight: bold;
+      text-shadow:4px 2px 6px white;
+     position: relative;
+     top: 15px;
+  }
+
+  div#legend img{
+      width: 100%;
+      height: 40%;
+  }
+  small#caption{
+    font-size: 1rem; 
+    line-height: 1.5;     
+  }
+  div#tribute-data{
+    background-color: rgb(46, 139, 87, 0.25);
+    position: relative;
+    top: 20px;
+    width: 59vw;
+    margin: 0 auto;
+    box-shadow: 20px 20px 20px  #98FB98;;
+  }
+  p#about-legend{
+    text-align: center;
+    padding: 2em 2em 0 2em;
+    color: white;
+    font-size: 2.3rem;
+    font-weight: bolder;
+    text-shadow: 4px 3px 10px black;
+  }
+  p#content{
+    box-sizing: border-box;
+    font-size: 1.03rem;
+    padding: 0 0 0 2.5rem;
+    line-height: 1.2;
+    position: relative;
+    bottom: 10px;
+
+  }
+  div.footer{
+    font-size: 0.9rem;
+  }
+  div.footer a.ssr{
+    text-decoration: none;
+    color: black;
+  }
+  div.footer p{
+    display: inline;
+  }
+  div.footer p.author{
+    text-decoration: none;
+    font-size: 0.8em;
+  }
+  a.author-name{
+    color: black;
+    text-decoration: none;
+  }
